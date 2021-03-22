@@ -289,6 +289,6 @@ if __name__ == "__main__":
     # print(list(database.get_list_domain('de')))
 
 
-    excute_via('test.txt',db_small,'output_small.txt')
-    excute_via('test.txt', db_medium, 'output_medium.txt')
-    excute_via('test.txt', db_all, 'output_all.txt')
+    excute_via('Via.txt',db_small,'output_small.txt')
+    excute_via('Via.txt', db_medium, 'output_medium.txt')
+    excute_via('Via.txt', db_all, 'output_all.txt')

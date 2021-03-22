@@ -1,1 +1,5 @@
+gmx.de
+gmx.net
+interia.pl
+o2.pl
 web.de
